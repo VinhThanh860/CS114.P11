@@ -25,6 +25,17 @@
 * **Họ và tên**: Nguyễn Thành Vinh
 * **MSSV**: 22521676
 * **Mã khoa**: KHMT2024
+## QUÁ TRÌNH MÔN HỌC
+<a name ="quatrinh"></a>
+### 1.LẬP TRÌNH PYTHON
+
+
+<a name ="colab"></a>
+### 2.COLAB ASSSIGNMENTS
+
+
+<a name ="QT"></a>
+### 3.QT IN CLASS
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
