@@ -22,9 +22,9 @@
 * **Năm học**: 2024-2025
 ## GIỚI THIỆU BẢN THÂN
 <a name="gioithieubanthan"></a>
-* **Họ và tên: Nguyễn Thành Vinh
-* **MSSV: 22521676
-* **Mã khoa: KHMT2024
+* **Họ và tên**: Nguyễn Thành Vinh
+* **MSSV**: 22521676
+* **Mã khoa**: KHMT2024
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
